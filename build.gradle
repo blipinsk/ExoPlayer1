@@ -4,7 +4,7 @@ ext {
             buildToolsVersion: "25.0.2",
             minSdk           : 9,
             targetSdk        : 25,
-            exoplayerVersion : "r1.5.11"
+            exoplayerVersion : "r1.5.12"
     ]
     bintrayConfig = [
             userOrg    : "blipinsk",
