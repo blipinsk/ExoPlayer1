@@ -1,5 +1,11 @@
-ExoPlayer 1
-===========
+# DEPRECATED
+
+There's been no new development of ExoPlayer 1 for the last 4 years. I don't see a reason why this packaging should still be active.
+No new development will be taking place. The library will not be maintained.
+
+Thanks for all the support!!!
+
+## ExoPlayer 1
 
 An external packaging of [Google's ExoPlayer version 1.x.x][1].
 
